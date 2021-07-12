@@ -115,3 +115,13 @@ git config
     git push
     
 - y ya estara subido
+
+- despues de la gran pelea que tuve en git bush porque no me reconocia los nuevos elementos de la nube, y tardarme mucho para que solo con poner
+    git pull
+    - ya estuvieran listos los archivo esto de vuelta :)
+    - esto sirve para pullear o sea traer los elementos nuevos
+
+- pero antes que puedas pullearlos tienes que descargarlos con
+    git fetch origin
+    - fetch de FETiCHe por los pies = |
+ 
