@@ -105,4 +105,13 @@ git config
 
 - que piola, pero ahora si quiero un archivo que no quiero que git lo reconozca como lo hago
 
-- pued primero tienes que crear un archivo creado .gitignore y en el tendras que poner todos los archivos que no quiere que reconozca
+- pues primero tienes que crear un archivo creado .gitignore y en el tendras que poner todos los archivos que no quiere que reconozca
+
+- ahora comenzaremos a hacer un repositorio en git que supongo que mi yo del futuro debe saber muy bien y despues clonar el repositori con
+    git clone "http del repositorio"
+    
+- ahora sera cuestion que tu pongas tus archivo o los crees en esa carpeta y despues de eso hacer le un commit local
+- pero ahora, esto no esta en la nube, para ello tenemos que usar
+    git push
+    
+- y ya estara subido
