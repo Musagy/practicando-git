@@ -139,4 +139,5 @@ git config
     - y tambien la rama local con
     ## git branch -d "nombre de la rama"
     
- 
+## eso seria todo.
+# Chau.
